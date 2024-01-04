@@ -1,4 +1,4 @@
-# TurboWarp Extension Gallery
+# TurboWarp Extension Gallery (mirrored, tweaked)
 
 User-contributed unsandboxed extension gallery for TurboWarp.
 
